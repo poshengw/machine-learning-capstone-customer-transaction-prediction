@@ -28,3 +28,11 @@
 
 ## Dataset:
 Dataset provided by Kaggle [Santander Customer Transaction Prediction](https://www.kaggle.com/c/santander-customer-transaction-prediction)
+
+## Report:
+The analysis report can be found [here](https://github.com/poshengw/machine-learning-capstone-customer-transaction-prediction/blob/master/Po-sheng%20Wang%20Udacity%20Machine%20Learning%20Nanodegree%20Capstone%20Project%20Proposal.pdf).
+
+## Python code:
+The python code can be found [here](https://github.com/poshengw/machine-learning-capstone-customer-transaction-prediction/tree/master/python_code).
+
+
