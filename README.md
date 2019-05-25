@@ -24,8 +24,8 @@
 </ol>
 
 ## Project Summary: 
-![Picture1](https://user-images.githubusercontent.com/49107319/58367010-a8905d80-7e8e-11e9-8abc-57f0f11eeda6.jpg)
-![roc_result_picture](https://user-images.githubusercontent.com/49107319/58367850-2c4f4780-7e99-11e9-8c4b-028ec305d0bd.JPG)
+![Picture1](https://user-images.githubusercontent.com/49107319/58367010-a8905d80-7e8e-11e9-8abc-57f0f11eeda6.jpg =100x20)
+![roc_result_picture](https://user-images.githubusercontent.com/49107319/58367850-2c4f4780-7e99-11e9-8c4b-028ec305d0bd.JPG =100x20)
 
 
 ## Dataset:
