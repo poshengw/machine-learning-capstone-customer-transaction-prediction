@@ -1,4 +1,4 @@
-## Machine Learning Engineer Capstone - Customer Transaction Prediction
+# Machine Learning Engineer Capstone - Customer Transaction Prediction
 
 ## Environment: 
 <ol>
