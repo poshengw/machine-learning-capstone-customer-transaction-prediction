@@ -1,7 +1,7 @@
 ## Machine Learning Engineer Capstone - Customer Transaction Prediction
 
 ### Environment: 
----
+_________________
 
 ### Project Summary: 
 - - - -
