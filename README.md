@@ -24,9 +24,7 @@
 </ol>
 
 ## Project Summary: 
-![Picture1](https://user-images.githubusercontent.com/49107319/58367010-a8905d80-7e8e-11e9-8abc-57f0f11eeda6.jpg){:height="36px" width="36px"}
-![roc_result_picture](https://user-images.githubusercontent.com/49107319/58367850-2c4f4780-7e99-11e9-8c4b-028ec305d0bd.JPG){:height="36px" width="36px"}
-
+![Picture1](https://user-images.githubusercontent.com/49107319/58367010-a8905d80-7e8e-11e9-8abc-57f0f11eeda6.jpg)
 
 ## Dataset:
 Dataset provided by Kaggle [Santander Customer Transaction Prediction](https://www.kaggle.com/c/santander-customer-transaction-prediction)
