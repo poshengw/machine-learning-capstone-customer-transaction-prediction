@@ -1,1 +1,5 @@
-# machine-learning-capstone-customer-transaction-prediction
+## Machine Learning Engineer Nanodegree - 
+## Capstone Project
+### Customer Transaction Prediction
+
+### Project Summary:
